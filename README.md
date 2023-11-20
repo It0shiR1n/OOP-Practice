@@ -1,2 +1,3 @@
 # OOP-Practice
-In this repo, you will see some projects using OOP paradigm !
+
+This repo contains a simple system to practice CRUD and OOP paradigm
